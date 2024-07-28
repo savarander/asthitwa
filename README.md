@@ -24,3 +24,6 @@ Requirements
 
 7. *Security and Privacy*:
    - Ensure that all voice data and user interactions are handled securely. Implement appropriate data protection and privacy measures.
+
+Demo link
+https://drive.google.com/file/d/1SeQOip11CeN8FftVThnc8lbTvNjsP2mM/view?usp=sharing
